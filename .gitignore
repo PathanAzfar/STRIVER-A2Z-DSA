@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.log
+*.iml
+*.DS_Store
+.vscode/
+.idea/
+out/
+bin/
+target/
