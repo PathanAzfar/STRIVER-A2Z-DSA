@@ -10,8 +10,10 @@ public class Main
 		    arr[i]=sc.nextInt();
 		}
 		int c = sc.nextInt();
+        
 		int ans = aggCows(arr,c);
 		System.out.print(ans);
+		sc.close();
 	}
 	
 	private static int aggCows(int[] arr,int c){
